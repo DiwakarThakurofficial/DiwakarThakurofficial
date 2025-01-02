@@ -2,7 +2,7 @@
 -  My Email id is thakurdiwakar262012@gmail.com
 -  I am beginner in coding
 -  I have recently strated to learn javascript
--  If you want to contact me for futher info you can send me a mail on Email Account
+-  If you want to contact me for futher info you can send me a mail on my Email Account
 -  I will definetly reply you
 
 
